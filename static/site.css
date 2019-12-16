@@ -1,0 +1,19 @@
+.icon.major.accent2 {
+  background: #0000FF;
+}
+.header {
+  color: black !important;
+  font-style: italic;
+  text-shadow: 2px 2px 4px #000000;
+}
+.banner {
+  font-weight: 900;
+  text-shadow: 2px 2px 4px #000000;
+}
+.banner-title {
+  font-weight: 900;
+  text-shadow: 2px 2px 4px #000000;
+}
+#nav {
+  color: black !important;
+}
